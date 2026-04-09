@@ -26,7 +26,7 @@ Train your own LLM-Tutorial
 https://github.com/tutorialsdojo/AWS-Certified-Generative-AI-Developer-Professional-AIP-C01?tab=readme-ov-file
 
 
-
+aws genAI- https://skillbuilder.aws/category/exam-prep/generative-ai-developer-professional-aip-c01
 
 
 
