@@ -23,7 +23,7 @@ lets build GPT: from scratch,in code,spelled out
 (freeCodeCamp.org)
 Train your own LLM-Tutorial
 
-
+https://github.com/tutorialsdojo/AWS-Certified-Generative-AI-Developer-Professional-AIP-C01?tab=readme-ov-file
 
 
 
