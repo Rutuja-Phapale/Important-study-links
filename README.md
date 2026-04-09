@@ -51,5 +51,9 @@ aws genAI- https://skillbuilder.aws/category/exam-prep/generative-ai-developer-p
 - [Medium Article on DevOps Best Practices](https://medium.com/@xyz/devops-best-practices)
 
 
+The LinkedIn message template mentioned in the video -
+`
+Hi {XX}. I noticed that you're working at {XX}. I'm currently looking for opportunities and I believe I will be a good fit for {XX} role. I've {XX} years of experience and my skills include {XX}. Please find attached my CV for further details.
+Would you be willing to refer me for the role? Happy to answer any additional questions you may have.
 
 
